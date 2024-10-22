@@ -1,0 +1,19 @@
+{
+  "name": "issg-w5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "git": "^0.1.5",
+    "line": "^0.1.8",
+    "read": "^4.0.0",
+    "redline": "^1.0.1",
+    "socket.io-client": "^4.8.0"
+  }
+}
